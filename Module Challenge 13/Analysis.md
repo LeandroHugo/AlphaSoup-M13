@@ -1,3 +1,4 @@
+![Alt text](NNModel.png)
 # 🚀 Venture Funding with Deep Learning
 
 Our journey began at Alphabet Soup, a venture capital firm where we were tasked with creating a model that predicts whether applicants will be successful if funded by Alphabet Soup. The business team provided us with a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Our mission was to use this data to create a binary classifier model that will predict whether an applicant will become a successful business. 
@@ -24,3 +25,4 @@ The process of predicting the success of venture-funded startups using deep lear
 
 ## 🔗 [Link to the Detailed Analysis](https://drive.google.com/file/d/1IfCOwNmGCpLWl9WToz6mRR2ZORtZ8OvG/view?usp=sharing)
 # 🎉 End of Analysis 🎉
+![Alt text](NNModel2.png)
